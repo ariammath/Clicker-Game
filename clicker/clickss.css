@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+#head{
+    color: aliceblue;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+#c{
+   color: mediumspringgreen;
+   font-size: 100px;
+   padding: 0%;
+   margin-top: 100px;
+   margin-left: 500px;
+   margin-right: 500px;
+   margin-bottom: 10px;
+}
+#b1{
+    background: #39FF14;
+    margin-top: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 2px solid;
+    font-size: 35px;
+}
+#reset{
+    background: #39FF14;
+    margin-top: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 2px solid;
+    font-size: 35px;
+}
